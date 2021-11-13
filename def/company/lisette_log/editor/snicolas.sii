@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .snicolas {
+ city: snicolas
+ prefab: 261
+}
+}

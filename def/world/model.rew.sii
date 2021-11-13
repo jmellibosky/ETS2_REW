@@ -1,0 +1,8 @@
+SiiNunit
+{
+
+model_def : model.rewtest {
+	model_desc: "/model/simple_cube.pmd"
+
+}
+}

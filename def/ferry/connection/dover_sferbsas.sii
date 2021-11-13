@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.dover.sferbsas {
+	price: 25000
+	time: 13920
+	distance: 11600
+}
+}
+

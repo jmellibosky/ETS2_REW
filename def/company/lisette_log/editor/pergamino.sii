@@ -1,0 +1,7 @@
+SiiNunit
+{
+company_def : .pergamino {
+ city: pergamino
+ prefab: 283
+}
+}

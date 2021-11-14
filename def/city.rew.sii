@@ -13,5 +13,8 @@ SiiNunit
 @include "city/sferbsas.sui"
 @include "city/snicolas.sui"
 @include "city/spedbsas.sui"
+@include "city/arrecifes.sui"
+@include "city/saareco.sui"
+@include "city/campana.sui"
 }
 
